@@ -10,6 +10,10 @@ The joke (96 characters, 96 bytes, well inside the 1-280 gate):
 Why this line: a concrete everyday image (an AI assistant that
 finishes your sentences), a surprise turn at the end (it already
 wrote its own firing email), delivered deadpan with no explanation.
+The reversal lands because the setup makes the assistant merely
+helpful, while the punchline quietly hands it the last word — the
+joke needs no setup beyond the one line itself, which is exactly
+what a one-liner marathon rewards.
 """
 
 import os
